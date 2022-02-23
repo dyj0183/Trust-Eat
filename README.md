@@ -3,9 +3,11 @@
 
 # Overview
 
+This application was completed in 3 weeks by Joyce, Filipe, and Yu-Chun.
+
 This is an application designed for 15,000+ BYU-Idaho students, professors, and faculties to use. They can use it to search for restaurants in the Rexburg and Idaho Falls areas. They can also write reviews for these restaurants, and if they want, they can also add a new restaurant to the Home page for others to review. We hope this app will help more BYU-Idaho students know where to go when they want to find a good restaurant.
 
-Even though this is not a real "phone app", we still do **mobile first design** to make it easy for everyone to use on the phone.
+Even though this is not a real "mobile app", we still do **mobile first design** to make it easy for everyone to use on the phone.
 
 [Software Demo Video](https://www.youtube.com/watch?v=CAhIOO8HRzo)
 
@@ -20,6 +22,7 @@ Even though this is not a real "phone app", we still do **mobile first design** 
 
 * React
 * JSX
+* JavaScript
 * HTML
 * CSS
 * Google Firebase
@@ -37,7 +40,7 @@ Even though this is not a real "phone app", we still do **mobile first design** 
 * Allow Users to Add Restaurants In Different Cities
 
 
-# Team Members (Feel Free to Connect on LinkedIn)
+# Team Members (Feel Free to Connect with us on LinkedIn)
 * [Joyce Tejada](https://www.linkedin.com/in/joyce-tejada/)
 * [Filipe Ferreira](https://www.linkedin.com/in/filipe-ferreira-eng/)
 * [Yu-Chun Tung](https://www.linkedin.com/in/yu-chun-tung/)
